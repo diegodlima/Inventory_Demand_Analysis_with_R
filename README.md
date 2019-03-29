@@ -7,7 +7,7 @@ This original project is posted on https://www.kaggle.com/c/grupo-bimbo-inventor
 - <b>.csv files:</b> contain the datasets (described below)<br />
 - <b>Demand.R:</b> contain the script of the project<br />
 - <b>Demand.Rmd:</b> contain the markdown script<br />
-- <b>Demand.html:</b> <u>this file is the compiled report</u> and can be visualized on https://diegodlima.github.io/Inventory_Demand_Analysis_with_R/
+- <b>Demand.html:</b> <u>this file is the compiled report and can be visualized on</u> https://diegodlima.github.io/Inventory_Demand_Analysis_with_R/
 <hr />
 <h2>Description</h2>
 Planning a celebration is a balancing act of preparing just enough food to go around without being stuck eating the same leftovers for the next week. The key is anticipating how many guests will come. Grupo Bimbo must weigh similar considerations as it strives to meet daily consumer demand for fresh bakery products on the shelves of over 1 million stores along its 45,000 routes across Mexico.
